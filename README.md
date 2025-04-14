@@ -38,7 +38,7 @@ This is a web application that allows users to browse, purchase, and manage snea
 ### Backend
 <p>
   <img src="https://img.shields.io/badge/-Java-%23007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/-GlassFish-%23202020?style=for-the-badge&logo=oracle&logoColor=white" alt="GlassFish Server" />
+  <img src="https://img.shields.io/badge/-Tomcat-%23202020?style=for-the-badge&logo=apachetomcat&logoColor=white" alt="Tomcat Server" />
 </p>
 
 ### Database
