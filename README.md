@@ -80,13 +80,6 @@ This is a web application that allows users to browse, purchase, and manage snea
 
 ---
 
-## **System Design**  
-![image](https://github.com/user-attachments/assets/199c56c7-eab8-46b6-adf7-4d8daf190c78)
-![image](https://github.com/user-attachments/assets/87911904-bf32-4893-bde9-46f08d046576)
-![image](https://github.com/user-attachments/assets/91c8337b-d7f5-4ae8-8075-aca59140600a)
-
----
-
 # **Conclusion**
 ### **Pros:**
 - The application features an attractive and user-friendly interface, making it easy for users to navigate.
