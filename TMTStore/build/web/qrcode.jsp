@@ -58,10 +58,7 @@
         ============================================ -->
 
 
-        <!--map js code here-->
-        <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAdWLY_Y6FL7QGW5vcO3zajUEsrKfQPNzI"></script>
-        <script  src="https://www.google.com/jsapi"></script>
-        <script src="assets/js/map.js"></script>
+        
 
 
         <!-- Plugins JS -->
