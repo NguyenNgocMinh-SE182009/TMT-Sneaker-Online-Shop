@@ -50,26 +50,19 @@ This is a web application that allows users to browse, purchase, and manage snea
 ---
 
 ## **Graphical User Interface (GUI)**  
-
-![image](https://github.com/user-attachments/assets/9dc3c55e-8eaf-4d54-83be-eda5696a5dc0)
-![image](https://github.com/user-attachments/assets/59147b8d-00ce-490b-8a29-59259ec5db27)
-![image](https://github.com/user-attachments/assets/dc4ad98b-a831-4fb1-918d-a6cbb93f6e2b)
-![image](https://github.com/user-attachments/assets/672aa815-b125-4ea0-a99c-b89649e36ba8)
-![image](https://github.com/user-attachments/assets/c088e2a5-5719-4281-95ed-d8857251c6e8)
-![image](https://github.com/user-attachments/assets/a827f9d3-75e4-41fd-b780-c4e78771777a)
-![image](https://github.com/user-attachments/assets/ab62964c-6cf0-40dc-8971-8118a64c767c)
-![image](https://github.com/user-attachments/assets/b3fc74ac-f383-49e5-925c-4529ac15080e)
-![image](https://github.com/user-attachments/assets/5f24459e-7c9d-4dba-856c-f0ddbc87d7a2)
-![image](https://github.com/user-attachments/assets/29cc9a96-45d3-437e-895a-581a052f812d)
-![image](https://github.com/user-attachments/assets/9622d7e8-f156-4014-8a29-1f603119baa1)
-![image](https://github.com/user-attachments/assets/f7da8732-1a7a-4535-8636-6f56fbf78aed)
-![image](https://github.com/user-attachments/assets/dda39a5b-0898-4e9d-ab04-13488f62dc8f)
-![image](https://github.com/user-attachments/assets/ad55e56d-7a17-4a56-957b-4786f084c1a1)
-![image](https://github.com/user-attachments/assets/2a5c5f41-61d7-4999-ac77-94436fe87d1e)
-![image](https://github.com/user-attachments/assets/20c4e7c8-972e-40cb-9391-71119ea80410)
-![image](https://github.com/user-attachments/assets/d587de8f-bc5b-4602-ae31-3bd08ae3c8a5)
-![image](https://github.com/user-attachments/assets/de4e3a57-e3f2-488f-9d44-c6a47548daad)
-![image](https://github.com/user-attachments/assets/3dd8fb4c-cb2a-4bb4-b11d-3967af8bf355)
+![Screenshot 2025-04-14 163628](https://github.com/user-attachments/assets/795cf223-79b5-460b-9319-cf8e09652a4c)
+![Screenshot 2025-04-14 163651](https://github.com/user-attachments/assets/8405a5f6-e2b6-4065-95bd-862b7b3f0bfb)
+![Screenshot 2025-04-14 163702](https://github.com/user-attachments/assets/282410f6-c349-4086-b41f-45f0c642dd82)
+![Screenshot 2025-04-14 163713](https://github.com/user-attachments/assets/f4242e2f-9800-4de7-8280-1dda8d1c41f8)
+![Screenshot 2025-04-14 163738](https://github.com/user-attachments/assets/1229ae59-d74d-4494-bf45-cfc6d08bfa9d)
+![Screenshot 2025-04-14 163755](https://github.com/user-attachments/assets/62964568-9c0b-4ae0-849a-02d6975bf17f)
+![Screenshot 2025-04-14 163820](https://github.com/user-attachments/assets/659903df-c287-4b69-9fb9-d9b81ae0c647)
+![Screenshot 2025-04-14 163853](https://github.com/user-attachments/assets/4c8c0a85-ca5a-4ad3-9386-66ec93a24e71)
+![Screenshot 2025-04-14 163922](https://github.com/user-attachments/assets/6c028820-d659-454f-a1a4-5b082f5125aa)
+![Screenshot 2025-04-14 163959](https://github.com/user-attachments/assets/a21475a4-e1ac-4cbc-b2a5-4ae89a5f418a)
+![Screenshot 2025-04-14 164050](https://github.com/user-attachments/assets/7e4008f7-8cc8-489c-9f5c-8cdf60220f93)
+![Screenshot 2025-04-14 164106](https://github.com/user-attachments/assets/0d90f410-b862-4072-8f6d-fdad93c9010d)
+![Screenshot 2025-04-14 164120](https://github.com/user-attachments/assets/707e6b32-6392-4b5a-8fef-cef6382d988f)
 
 ---
 
