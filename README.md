@@ -75,7 +75,7 @@ This is a web application that allows users to browse, purchase, and manage snea
 
 ## **Database Design**  
 
-![image](https://github.com/user-attachments/assets/e4dec2d4-7085-4617-bc4d-a827f64dfec8)
+![database](https://github.com/user-attachments/assets/1244673d-c555-47e9-812e-0a815073aecb)
 
 ---
 
