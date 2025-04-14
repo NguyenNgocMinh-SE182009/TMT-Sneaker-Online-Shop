@@ -63,7 +63,7 @@ This is a web application that allows users to browse, purchase, and manage snea
 ![Screenshot 2025-04-14 163959](https://github.com/user-attachments/assets/a21475a4-e1ac-4cbc-b2a5-4ae89a5f418a)
 ![Screenshot 2025-04-14 164050](https://github.com/user-attachments/assets/7e4008f7-8cc8-489c-9f5c-8cdf60220f93)
 ![Screenshot 2025-04-14 164106](https://github.com/user-attachments/assets/0d90f410-b862-4072-8f6d-fdad93c9010d)
-![Screenshot 2025-04-14 164120](https://github.com/user-attachments/assets/707e6b32-6392-4b5a-8fef-cef6382d988f)
+
 
 ### **Admin**
 ![Screenshot 2025-04-14 164746](https://github.com/user-attachments/assets/0a1b4cec-de4c-40d1-9219-70547372a8c8)
