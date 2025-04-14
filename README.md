@@ -50,6 +50,7 @@ This is a web application that allows users to browse, purchase, and manage snea
 ---
 
 ## **Graphical User Interface (GUI)**  
+### **Customer**
 ![Screenshot 2025-04-14 163628](https://github.com/user-attachments/assets/795cf223-79b5-460b-9319-cf8e09652a4c)
 ![Screenshot 2025-04-14 163651](https://github.com/user-attachments/assets/8405a5f6-e2b6-4065-95bd-862b7b3f0bfb)
 ![Screenshot 2025-04-14 163702](https://github.com/user-attachments/assets/282410f6-c349-4086-b41f-45f0c642dd82)
@@ -63,6 +64,13 @@ This is a web application that allows users to browse, purchase, and manage snea
 ![Screenshot 2025-04-14 164050](https://github.com/user-attachments/assets/7e4008f7-8cc8-489c-9f5c-8cdf60220f93)
 ![Screenshot 2025-04-14 164106](https://github.com/user-attachments/assets/0d90f410-b862-4072-8f6d-fdad93c9010d)
 ![Screenshot 2025-04-14 164120](https://github.com/user-attachments/assets/707e6b32-6392-4b5a-8fef-cef6382d988f)
+
+### **Admin**
+![Screenshot 2025-04-14 164746](https://github.com/user-attachments/assets/0a1b4cec-de4c-40d1-9219-70547372a8c8)
+![Screenshot 2025-04-14 164803](https://github.com/user-attachments/assets/7d9f4ff5-ef79-47cb-bd8a-1d524b7b6013)
+![Screenshot 2025-04-14 164815](https://github.com/user-attachments/assets/17a878a2-cb08-4aad-af61-517523202841)
+![Screenshot 2025-04-14 164829](https://github.com/user-attachments/assets/92c43c70-8672-45b9-841c-fcd8d31a546e)
+![Screenshot 2025-04-14 164851](https://github.com/user-attachments/assets/b5aefdb7-8b54-4d76-be91-2d1a2f4628c4)
 
 ---
 
